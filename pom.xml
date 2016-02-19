@@ -29,8 +29,8 @@
   <dependencies>
     <dependency>
       <groupId>org.openqa.seleniumgrid</groupId>
-      <artifactId>grid</artifactId>
-      <version>0.0.2-SNAPSHOT</version>
+      <artifactId>seleniumJavaClasses</artifactId>
+      <version>52.0.0</version>
     </dependency>
     <dependency>
       <groupId>org.openqa.seleniumgrid</groupId>
